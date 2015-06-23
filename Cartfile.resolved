@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "1.2.3"
+github "robrix/Box" "1.2.2"
+github "Hearst-DD/ObjectMapper" "0.12"
+git "https://github.com/antitypical/Result.git" "81b189645babd30c6f70ed3f82a83988a467fb02"
